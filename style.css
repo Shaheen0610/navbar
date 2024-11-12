@@ -1,0 +1,38 @@
+body {
+
+    background-image: url("./bmw\ bakgrund.webp");
+    background-size: cover;
+    background-position: center;
+    padding: 10px;
+
+
+}
+
+nav {
+    display: flex;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    gap: 15px;
+}
+
+ul a {
+    text-decoration: none;
+    color: white;
+}
+
+.navbar i {
+    color: white;
+    list-style: none;
+    justify-content: flex-end;
+    margin: 25px -180px 0px 190px;
+    align-items: center;
+    gap: 0px;
+    padding-left: 80px;
+
+
+}
